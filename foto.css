@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+}
+
+.fotsUmDois{
+    display: flex;
+    margin-left: 30%;
+}
+
+.foto-1{
+    background-image: url(./img/cris.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+    
+}
+
+
+.foto-2{
+    background-image: url(./img/leticia.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+}
+
+.fotstresquatro{
+    display: flex;
+    margin-left: 30%;
+}
+
+.foto-3{
+    background-image: url(./img/lise.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+}
+
+.foto-4{
+    background-image: url(./img/nicolas.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+}
+
+.fotscincoseis{
+    display: flex;
+     margin-left: 30%;
+}
+
+.foto-5{
+    background-image: url(./img/nicolly.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+}
+
+.foto-6{
+    background-image: url(./img/sara.jpeg);
+    width: 100px;
+    background-size: 100%;
+    height: 100px;
+    margin-left: 29px;
+    border-radius: 50%;
+}
+
+h3{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 ;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
